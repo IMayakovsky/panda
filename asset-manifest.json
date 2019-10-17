@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df042fa1.chunk.css",
+    "main.js": "/static/js/main.0d6309c8.chunk.js",
+    "main.js.map": "/static/js/main.0d6309c8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f39cdd62.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f39cdd62.js.map",
+    "static/js/2.5bd95512.chunk.js": "/static/js/2.5bd95512.chunk.js",
+    "static/js/2.5bd95512.chunk.js.map": "/static/js/2.5bd95512.chunk.js.map",
+    "static/css/3.3f4f9078.chunk.css": "/static/css/3.3f4f9078.chunk.css",
+    "static/js/3.bc5e5111.chunk.js": "/static/js/3.bc5e5111.chunk.js",
+    "static/js/3.bc5e5111.chunk.js.map": "/static/js/3.bc5e5111.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.31e5abc3355089db62a806cf3affc302.js": "/precache-manifest.31e5abc3355089db62a806cf3affc302.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.3f4f9078.chunk.css.map": "/static/css/3.3f4f9078.chunk.css.map",
+    "static/css/main.df042fa1.chunk.css.map": "/static/css/main.df042fa1.chunk.css.map",
+    "static/media/NoNameAvatar.png": "/static/media/NoNameAvatar.2b8988d5.png",
+    "static/media/mainPandaLogo.ico": "/static/media/mainPandaLogo.d7f4e79c.ico",
+    "static/media/pandaAvatarForCommunites.jfif": "/static/media/pandaAvatarForCommunites.2b52ebc2.jfif",
+    "static/media/pandaList.png": "/static/media/pandaList.86f81b05.png",
+    "static/media/pandaSearch.png": "/static/media/pandaSearch.925f8148.png",
+    "static/media/panda_loading.gif": "/static/media/panda_loading.4987b47d.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f39cdd62.js",
+    "static/js/2.5bd95512.chunk.js",
+    "static/css/main.df042fa1.chunk.css",
+    "static/js/main.0d6309c8.chunk.js"
+  ]
+}
